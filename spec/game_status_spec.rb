@@ -1,4 +1,4 @@
-require_relative '../lib/game_status.rb'
+
   require_relative '../lib/game_status.rb'
 
 
